@@ -1,5 +1,10 @@
 # Intruder Detection using Image Processing
 
+
+
+![night intruder](https://github.com/somia20/Intruder-Detection-System-Day-and-Night-Vision-/assets/108867754/73485d58-4b89-4e4d-ac50-4961ba88f157)
+
+
 ## Overview
 
 This repository contains the code and documentation for an Intruder Detection system based on Image Processing techniques. The project aims to utilize Computer Vision (CV) and Digital Image Processing (DIP) concepts to detect intruders in a given environment using Python. OpenCV, Pandas, and Matplotlib libraries have been employed to implement the solution.
